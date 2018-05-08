@@ -1,0 +1,3 @@
+[submodule "subgit"]
+	path = subgit
+	url = git@github.com:seanhepps/subgit.git
